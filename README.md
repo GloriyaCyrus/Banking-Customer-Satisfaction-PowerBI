@@ -27,14 +27,13 @@ This project focuses on analyzing banking customer complaints and satisfaction d
 
 ## Dashboard Preview
 
-
+![Banking Dashboard](BANKING-CURSTONER-SATISFACTION-DASHBOARD.png)
 
 ## Project Files
 
 - `Banking_Customer_Satisfaction.pbix` – Power BI project file.
-- BANKING-CURSTONER-SATISFACTION-DASHBOARD`.png` – Dashboard screenshot.
+- `BANKING-CURSTONER-SATISFACTION-DASHBOARD.png` – Dashboard screenshot.
 
 ## Conclusion
 
 The dashboard provides insights into banking customer complaints, satisfaction ratings, and complaint resolution status. It helps present customer feedback information in a clear and interactive format.
-
